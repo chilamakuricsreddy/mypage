@@ -1,0 +1,132 @@
+---
+title: ""
+---
+
+* **Introduction to Statistical Analysis.**
+  * Oct 2021, CRUKCI, University of Cambridge, UK.
+  * Nov 2022, CRUKCI, University of Cambridge, UK.
+  * Nov 2023, CRUKCI, University of Cambridge, UK.
+  * Oct 2024, CRUKCI, University of Cambridge, UK.
+
+* **Linear Modelling with R**
+  * Jan 2022, University of Cambridge, UK.
+  * Feb 2023, University of Cambridge, UK.
+
+* **Linear modeling: Hands-on with Fixed and Mixed effects models**
+  * Feb 2023, CRUKCI, University of Cambridge, UK.
+  * Feb 2024, CRUKCI, University of Cambridge, UK.
+
+* **An Introduction to Machine Learning**
+  * July 2021, University of Cambridge, UK.
+  * Sept 2023, University of Cambridge, UK.
+  * July 2023, University of Cambridge, UK.
+  * July 2024, University of Cambridge, UK.
+  
+* **UKHSA-WHO: SARS-CoV-2 Bioinformatics Workshop**
+  * Jan 2023, Abu Dhabi, UAE.
+  * May 2023, Accra, Ghana.
+  * Feb 2024, Panama City, Panama.
+
+* **Principles of Experimental Designs**
+  * Nov 2015, CRUKCI, University of Cambridge,UK.
+  * Nov 2016, CRUKCI, University of Cambridge,UK.
+  * Nov 2017, CRUKCI, University of Cambridge,UK.
+  * Nov 2018, CRUKCI, University of Cambridge,UK.
+  * Oct 2019, CRUKCI, University of Cambridge,UK.
+  * Jan 2021, CRUKCI, University of Cambridge,UK.
+  * Oct 2021, CRUKCI, University of Cambridge,UK.
+  * Oct 2022, CRUKCI, University of Cambridge,UK.
+  * Oct 2023, CRUKCI, University of Cambridge,UK.
+  * Oct 2024, CRUKCI, University of Cambridge, UK.
+
+* **Reproducible Research in R**
+  * Dec 2022, University of Cambridge, UK.
+  * Feb 2023, University of Cambridge, UK.
+  * Jan 2025, Sanger Institute, Cambridge, UK.
+
+* **Data Science in Python**
+  * Apr 2019, University of Cambridge, UK.
+  * Apr 2020, University of Cambridge, UK.
+  * Mar 2021, University of Cambridge, UK.
+  * Nov 2022, University of Cambridge, UK.
+
+* **CRUK Cambridge Center Bioinformatics Summer School**
+  * July 2017, University of Cambridge, UK.
+  * July 2018, University of Cambridge, UK.
+  * July 2019, University of Cambridge, UK.
+
+* **Winter School: Bioinformatics Data Exploration for Biologists**
+  * Dec 2020, University of Cambridge, UK.
+  
+* **High Performance Computing: An Introduction**
+  * Apr 2022, University of Cambridge, UK.
+  * July 2022, University of Cambridge, UK.
+  * Oct 2023, University of Cambridge, UK.
+  * Oct 2024, University of Cambridge, UK.
+
+* **Introduction High Throughput Sequencing**
+  * Oct 2013, University of Oslo, Norway.
+  * Oct 2014, University of Oslo, Norway.
+
+* **Analysis of high-throughput sequencing data with Bioconductor**
+  * May 2015, University of Cambridge, UK.
+  * Mar 2015, University of Cambridge, UK.
+  * Mar 2018, University of Cambridge, UK.
+  * Dec 2018, University of Cambridge, UK.
+
+* **Analysis of bulk RNA-seq data**
+  * Mar 2015, SVIMS bioinformatics center, Tirupati, India.
+  * Jan 2017,CDFD, Hyderabad, India.
+  * July 2020, University of Cambridge, UK.
+  * June 2021, University of Cambridge, UK.
+  * July 2021, University of Cambridge, UK.
+  * Nov 2021, University of Cambridge, UK.
+  * Apr 2022, University of Cambridge, UK.
+  * Nov 2022, University of Cambridge, UK.
+  * June 2023, University of Cambridge, UK.
+  * Sept 2023, University of Cambridge, UK.
+  * Mar 2024, University of Cambridge, UK.
+  * Nov 2024, University of Cambridge, UK.
+  
+* **Analysis of single cell RNA-seq data.**
+  * Nov 2021, University of Cambridge, UK.
+  * Mar 2022, CRUKCI, University of Cambridge, UK.
+  * Apr 2022, University of Cambridge, UK.
+  * June 2022, University of Cambridge, UK.
+  * Sept 2022, University of Cambridge, UK.
+  * Jan 2023, University of Cambridge, UK.
+  * Sept 2023, University of Cambridge, UK.
+  * Mar 2022, CRUKCI, University of Cambridge, UK.
+  * May 2024, University of Cambridge, UK.
+  * Dec 2024, University of Cambridge, UK.
+  * Feb 2025, University of Cambridge, UK.
+
+* **An Introduction to Solving Biological Problems with R**
+  * June 2016, University of Cambridge, UK.
+  * Dec 2016, S.V. Agricultural College, India.
+  * June 2017, University of Cambridge, UK.
+  * Dec 2018, University of Cambridge, UK.
+  * Mar 2020, University of Cambridge, UK.
+  * Nov 2021, University of Cambridge, UK.
+  * Apr 2022, APBioNET, Perdana University, Malaysia.
+
+* **An Introduction to Solving Biological Problems with Python**
+  * July 2020, University of Cambridge, UK.
+  * June 2021, University of Cambridge, UK.
+  * Sept 2021, University of Cambridge, UK.
+  * Sept 2023, University of Cambridge, UK.
+  * Jan 2024, Sanger Institute, UK.
+  * Oct 2024, University of Cambridge, UK.
+
+* **Data Manipulation and Visualization using R**
+  * Feb 2019, University of Cambridge, UK.
+
+* **NST Part II BBS Bioinformatics**
+  * Jan 2021, University of Cambridge, UK.
+
+* **Introduction to Command Line Linux**
+  * Mar 2021, University of Cambridge, UK.
+
+* **Bitesize R**:
+  * Apr 2019, CRUKCI, University of Cambridge, UK.
+  * Apr 2023, CRUKCI, University of Cambridge, UK.

@@ -1,0 +1,16 @@
+---
+title: ""
+---
+
+- Enhanced structure prediction of gene products containing class III adenylate cyclases. The Indo-French Bioinformatics Meeting (IFBM 2006), 12-14 June 2006, Bangalore, India.
+- Bioinformatics as a career. 13 Oct 2009, Agricultural College, Mahanandi, India.
+- Orientation of transmembrane peptides under hydrophobic mismatch condition. 26 Apr 2010, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany.
+- Orientation of transmembrane peptides under hydrophobic mismatch condition. 29 Apr 2010, The Computational Biology Unit, University of Bergen, Norway.
+- Performance Comparison of four exome capturing systems for next-generation sequencing. The Norwegian Genomics Consortium meeting 3-4 Apr 2013, Oslo.
+- Importance of Genomic Medicine: Tale of a Liposarcoma Patient. 26 August 2014, The Jackson Laboratory for Genomic Medicine, Farmington, Connecticut, USA.
+- Importance of Genomic Medicine: Tale of a Liposarcoma Patient. 15 January 2015, IIIT Hyderabad, India.
+- Importance of Genomic Medicine: Tale of a Liposarcoma Patient. 16 December 2016, SVIMS Bioinformatics Center, Tirupati, India.
+- Careers in Bioinformatics, 7 Mar 2018, The Leys School, Cambridge, UK.
+- Careers in Bioinformatics, 9 Mar 2019, The Leys School, Cambridge, UK.
+- Careers in Bioinformatics, 7 Mar 2020, The Leys School, Cambridge, UK.
+- Big Data and Biology. 23 Jan 2024, GITAM University, Bangalore, India.

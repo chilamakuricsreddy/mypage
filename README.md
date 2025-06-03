@@ -1,2 +1,0 @@
-# ChandraChilamakuri.github.io
-CV

@@ -1,0 +1,23 @@
+---
+title: ""
+---
+
+* **Jan 2016-Present**: Senior Computational Biologist, [CRUK Cambridge Institute](https://www.cruk.cam.ac.uk/), University of Cambridge, UK.
+  - Providing computational expertise to the design and analysis of research projects.
+  - Leading the development of computational methods for analyzing high-throughput sequencing and proteomics data.
+  - Develop and deliver training courses in statistics and computational biology.
+
+* **Apr 2015-Dec 2015**: Computational Biologist, [CRUK Cambridge Institute](https://www.cruk.cam.ac.uk/), University of Cambridge, UK.
+  - Providing computational expertise to the design and analysis of research projects.
+  - Developed computational methods for analyzing high-throughput sequencing data.
+  - Collaborated with experimental biologists to design and analyze experiments.
+
+* **Sept 2012-Jan 2015**: Computational Biologist, [Oslo University Hospital](https://www.ous-research.no/), Norway.
+  - Worked on the [Norwegian Personalized Cancer Medicine project](https://www.nature.com/articles/nature.2012.9949), My work involved in analysis and interpretation of high-throughput sequencing data from cancer patients.
+  - I was involved in the development and delivery of next-generation sequencing data analysis courses for researchers and clinicians.
+
+* **Sept 2010-Aug 2012**: Postdoctoral Researcher, [University of Bergen](https://www.uib.no/), Norway.
+  - Worked on the [NEUROXSYS](https://cordis.europa.eu/project/id/223262/reporting/it). Involved in the analysis and interpretation of high-throughput sequencing data from patients with neurological disorders.
+
+* **Nov 2009-Aug 2010**: Postdoctoral Researcher, [NCBS](https://www.ncbs.res.in/), Bangalore India.
+  - Involved in the modeling of Myosin protein tails for understanding the molecular mechanisms and functional diversity of Myosin proteins.

@@ -346,7 +346,7 @@
       <text variable="citation-number"/>
     </layout>
   </citation>
-  <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush">
+  <bibliography et-al-min="3" et-al-use-first="3" second-field-align="flush">
     <layout>
       <text variable="citation-number" suffix="."/>
       <group delimiter=". " suffix=". ">
@@ -373,5 +373,14 @@
       <text macro="report-details" suffix=". "/>
       <text macro="access"/>
     </layout>
+
+
+<sort>
+    <key variable="issued" sort="descending"/>
+    <key variable="author"/>
+    <key variable="title"/>
+</sort>
+
+
   </bibliography>
 </style>

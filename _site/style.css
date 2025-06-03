@@ -1,0 +1,13 @@
+
+@font-face {
+  font-family: 'ETBembo';
+  src: url('fonts/BemboStd.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'ETBembo', 'Palatino', 'Georgia', serif;
+}
+
+

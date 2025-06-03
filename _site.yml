@@ -1,6 +1,33 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Chandra Chilamakuri"
   left:
-    - text: "Home"
+    - text: "Who am I?"
       href: index.html
+    - text: "Digital Profiles"
+      href: Digital_Profiles.html
+    - text: "Experience"
+      href: Experience.html
+    - text: "Education"
+      href: Education.html
+    - text: "Teaching"
+      href: Teaching.html
+    - text: "Honors and Awards"
+      href: Honors_and_Awards.html
+    - text: "Invited Talks"
+      href: Invited_Talks.html
+    - text: "Conferences"
+      href: Conferences.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Hobbies"
+      href: Hobbies.html
+    - text: "Contact"
+      href: Contact.html
+
+output:
+  html_document:
+    theme: readable
+    toc: TRUE
+    toc_float: TRUE
+    
