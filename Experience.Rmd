@@ -2,12 +2,12 @@
 title: ""
 ---
 
-* **Jan 2016-Present**: Senior Computational Biologist, [CRUK Cambridge Institute](https://www.cruk.cam.ac.uk/), University of Cambridge, UK.
+* **Jan 2016-Present**: Senior Computational Biologist, [CRUK Cambridge Institute](https://www.cruk.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/), UK.
   - Providing computational expertise to the design and analysis of research projects.
   - Leading the development of computational methods for analyzing high-throughput sequencing and proteomics data.
   - Develop and deliver training courses in statistics and computational biology.
 
-* **Apr 2015-Dec 2015**: Computational Biologist, [CRUK Cambridge Institute](https://www.cruk.cam.ac.uk/), University of Cambridge, UK.
+* **Apr 2015-Dec 2015**: Computational Biologist, [CRUK Cambridge Institute](https://www.cruk.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/), UK.
   - Providing computational expertise to the design and analysis of research projects.
   - Developed computational methods for analyzing high-throughput sequencing data.
   - Collaborated with experimental biologists to design and analyze experiments.
