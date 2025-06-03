@@ -24,7 +24,8 @@ navbar:
       href: Hobbies.html
     - text: "Contact"
       href: Contact.html
-
+      
+output_dir: "docs"
 output:
   html_document:
     theme: readable
